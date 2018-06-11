@@ -1,5 +1,5 @@
 {
-  "name": "react-intl-formatted-duration",
+  "name": "@ephys/react-intl-formatted-duration",
   "version": "2.0.0",
   "description": "React intl component to express time duration",
   "keywords": [
